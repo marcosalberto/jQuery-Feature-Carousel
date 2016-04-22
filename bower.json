@@ -1,0 +1,8 @@
+{
+  "name": "jquery-feature-carousel",
+  "main": "./js/jquery.featureCarousel.js",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": ">=1.7"
+  }
+}
